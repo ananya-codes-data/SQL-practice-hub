@@ -26,7 +26,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 0    | 0      | 0    | 0     |
 | HackerRank    | 0    | 0      | 0    | 0     |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| Others        |                      | 0     |
+| Others        |      |        |      | 0     |
 | **Total**     | 0    | 0      | 0    | 0     |
 
 > Difficulty labels are based on the respective platforms.
