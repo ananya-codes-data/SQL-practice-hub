@@ -56,10 +56,10 @@ Links to questions and my answers are below
 
 ## SQLBolt
 
-| Question | Solution |
-|---------|----------|
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
+| Question | Solution | No.of Problems |
+|---------|----------|---------|
+| - | - | - |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+| - | - | - |
