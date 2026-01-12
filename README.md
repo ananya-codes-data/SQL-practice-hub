@@ -28,8 +28,8 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 0    | 0      | 0    | 0     |
 | HackerRank    | 0    | 0      | 0    | 0     |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| Others        |      |        |      | 9     |
-| **Total**     | 0    | 0      | 0    | 9     |
+| Others        |      |        |      | 13     |
+| **Total**     | 0    | 0      | 0    | 13     |
 
 > Difficulty labels are based on the respective platforms.
 
@@ -42,7 +42,7 @@ Platforms that organize problems by **topics instead of difficulty** are tracked
 | Platform  | Topics Covered | Problems |
 |-----------|---------------|----------|
 | SQLZoo    |  | 0 |
-| SQLBolt   | Basics | 9 |
+| SQLBolt   | Basics | 13 |
 
 > Progress is updated manually as problems are solved.
 
