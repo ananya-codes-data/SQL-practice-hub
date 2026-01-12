@@ -19,7 +19,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 ## 📊 Progress Tracker
 
-## Platform-Based SQL Practice
+## 💻 Platform-Based SQL Practice
 
 | Platform      | Easy | Medium | Hard | Total |
 |---------------|------|--------|------|-------|
