@@ -65,7 +65,7 @@ Links to questions and my answers are below
 | Topic | Solution | No.of Problems |
 |---------|----------|---------|
 | [SELECT_queries_101](https://sqlbolt.com/lesson/select_queries_introduction) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/4897e60734c76dd912b711efeee1ec85e2193f59/SQLBolt/SELECT_queries_101.sql) | 5 |
-| - | - | - |
+| [Queries_with_constraints_1](https://sqlbolt.com/lesson/select_queries_with_constraints) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/ad0b74c1baeca349ae76144da1ef9b626fbedc92/SQLBolt/Queries_with_constraints_1.sql) | 4 |
 | - | - | - |
 | - | - | - |
 | - | - | - |
