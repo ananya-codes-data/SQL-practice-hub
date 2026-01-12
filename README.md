@@ -30,6 +30,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | **Total**     | 0    | 0      | 0    | 0     |
 
 > Difficulty labels are based on the respective platforms.
+
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
 
 ## 📚 Topic-Based SQL Practice
