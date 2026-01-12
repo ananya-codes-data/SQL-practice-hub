@@ -5,8 +5,10 @@ Practicing SQL problems
 
 - [Overview](#overview)
 - [Progress Tracker](#-progress-tracker)
-- [Platform-Based SQL Practice](#platform-based-sql-practice)
+- [Platform-Based SQL Practice Tracker](#-platform-based-sql-practice-tracker)
+- [Platform-Based SQL Practice](#-platform-based-sql-practice)
 - [HackerRank](#hackerrank)
+- [Topic-Based SQL Practice Tracker](#-topic-based-sql-practice-tracker)
 - [Topic-Based SQL Practice](#-topic-based-sql-practice)
 - [SQLBolt](#sqlbolt)
 
@@ -19,7 +21,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 ## 📊 Progress Tracker
 
-## 💻 Platform-Based SQL Practice
+## 💻 Platform-Based SQL Practice Tracker
 
 | Platform      | Easy | Medium | Hard | Total |
 |---------------|------|--------|------|-------|
@@ -33,7 +35,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
 
-## 📚 Topic-Based SQL Practice
+## 📚 Topic-Based SQL Practice Tracker
 
 Platforms that organize problems by **topics instead of difficulty** are tracked separately below.
 
@@ -46,6 +48,8 @@ Platforms that organize problems by **topics instead of difficulty** are tracked
 
 Links to questions and my answers are below
 
+## 💻 Platform-Based SQL Practice
+
 ## HackerRank
 
 | Question | Solution | Difficulty |
@@ -53,6 +57,8 @@ Links to questions and my answers are below
 | - | - | - |
 | - | - | - |
 | - | - | - |
+
+## 📚 Topic-Based SQL Practice
 
 ## SQLBolt
 
