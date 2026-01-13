@@ -1,5 +1,5 @@
 -- Platform: SQLBolt
--- Problem: 
+-- Problem: Filtering_and_sorting_query_results
 -- Concepts: WHERE, ORDER BY
 
 -- Solution:
