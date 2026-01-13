@@ -71,3 +71,4 @@ Links to questions and my answers are below
 | [Simple_SELECT_queries](https://sqlbolt.com/lesson/select_queries_review) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/0bbfe6c69a752cacbd5f471f33b74beb5570841d/SQLBolt/Simple_SELECT_queries.sql) | 5 |
 | [Multi-table_queries_with_JOINs](https://sqlbolt.com/lesson/select_queries_with_joins) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/f566909810f84c67975b239df5cfc8acbdc7a327/SQLBolt/Multi-table_queries_with_JOINs.sql) | 3 |
 | [Outer_JOINs](https://sqlbolt.com/lesson/select_queries_with_outer_joins) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/7e7c3c2fbce409e188639631e4eee0e3cfacfa60/SQLBolt/Outer_JOINs.sql) | 3 |
+| [NULLs](https://sqlbolt.com/lesson/select_queries_with_nulls) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/b5c2b68d0d3b386fbe5abe26474238fc29b4cec1/SQLBolt/NULLs.sql) | 2 |
