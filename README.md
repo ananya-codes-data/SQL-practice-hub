@@ -54,9 +54,15 @@ Links to questions and my answers are below
 
 | Question | Solution | Difficulty |
 | -------- | ------------ | ---------- |
-| - | - | - |
-| - | - | - |
-| - | - | - |
+| [Revisiting_the_SELECT_query_I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Revisiting_the_SELECT_query_I.sql) | Easy |
+| [Revisiting_the_SELECT_query_II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Revisiting_the_SELECT_query_II.sql) | Easy |
+| [Select_all](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Select_all.sql) | Easy |
+| [Select_By_ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Select_By_ID.sql) | Easy |
+| [Japanese_Cities_Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Japanese_Cities_Attributes.sql) | Easy |
+| [Japanese_Cities_Names](http://hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Japanese_Cities_Names.sql) | Easy |
+| [Weather_Observation_Station_1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_1.sql) | Easy |
+| [Weather_Observation_Station_3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_3.sql) | Easy |
+| [Weather_Observation_Station_4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_4.sql) | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
