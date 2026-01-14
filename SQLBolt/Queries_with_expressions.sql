@@ -1,7 +1,6 @@
 -- Platform: SQLBolt
 -- Problem: Queries_with_expressions
--- Concepts: 
-
+-- Concepts: Aliases
 -- Solution:
 
 -- 1.
