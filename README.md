@@ -39,10 +39,10 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 Platforms that organize problems by **topics instead of difficulty** are tracked separately below.
 
-| Platform  | Topics Covered                                    | Problems |
-|-----------|---------------------------------------------------|----------|
-| SQLZoo    |                                                   | 0        |
-| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs         | 33       |
+| Platform  | Topics Covered                                                  | Problems |
+|-----------|-----------------------------------------------------------------|----------|
+| SQLZoo    |                                                                 | 0        |
+| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs, Aggregations         | 39       |
 
 > Progress is updated manually as problems are solved.
 
@@ -73,6 +73,5 @@ Links to questions and my answers are below
 | [Outer_JOINs](https://sqlbolt.com/lesson/select_queries_with_outer_joins) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/7e7c3c2fbce409e188639631e4eee0e3cfacfa60/SQLBolt/Outer_JOINs.sql) | 3 |
 | [NULLs](https://sqlbolt.com/lesson/select_queries_with_nulls) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/b5c2b68d0d3b386fbe5abe26474238fc29b4cec1/SQLBolt/NULLs.sql) | 2 |
 | [Queries_with_expressions](https://sqlbolt.com/lesson/select_queries_with_expressions) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/81df847d1cb61f9daf0f4b16b36f3acfe90e8980/SQLBolt/Queries_with_expressions.sql) | 3 |
-| [Queries_with_aggregates_1](https://sqlbolt.com/lesson/select_queries_with_aggregates
-) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/a605f360a2f98145acfbbf7a1a942ad2b3b38a2b/SQLBolt/Queries_with_aggregates_1.sql) | 3 |
+| [Queries_with_aggregates_1](<https://sqlbolt.com/lesson/select_queries_with_aggregates>) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/a605f360a2f98145acfbbf7a1a942ad2b3b38a2b/SQLBolt/Queries_with_aggregates_1.sql) | 3 |
 | [Queries_with_aggregates_2](https://sqlbolt.com/lesson/select_queries_with_aggregates_pt_2) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/a605f360a2f98145acfbbf7a1a942ad2b3b38a2b/SQLBolt/Queries_with_aggregates_2.sql) | 3 |
