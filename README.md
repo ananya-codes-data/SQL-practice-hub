@@ -71,7 +71,7 @@ Links to questions and my answers are below
 | [Weather_Observation_Station_10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Weather_Observation_Station_10.sql) | Easy |
 | [Weather_Observation_Station_11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Weather_Observation_Station_11.sql) | Easy |
 | [Weather_Observation_Station_12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Weather_Observation_Station_12.sql) | Easy |
-| [Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Higher_Than_75_Marks.sql) | Easy |
 | [Employee_Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [Solution]() | Easy |
 
 ## 📚 Topic-Based SQL Practice
