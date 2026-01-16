@@ -63,6 +63,16 @@ Links to questions and my answers are below
 | [Weather_Observation_Station_1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_1.sql) | Easy |
 | [Weather_Observation_Station_3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_3.sql) | Easy |
 | [Weather_Observation_Station_4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/07c0707e02a899a087ff4e889ea381f77aafcc11/HackerRank/Weather_Observation_Station_4.sql) | Easy |
+| [Weather_Observation_Station_5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Weather_Observation_Station_12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Employee_Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [Solution]() | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
