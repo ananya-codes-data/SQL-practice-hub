@@ -73,6 +73,14 @@ Links to questions and my answers are below
 | [Weather_Observation_Station_12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Weather_Observation_Station_12.sql) | Easy |
 | [Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Higher_Than_75_Marks.sql) | Easy |
 | [Employee_Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Employee_Names.sql) | Easy |
+| [Employee_Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Type_of_Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Revising_Aggregations_The_Count_Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Revising_Aggregations_The_Sum_Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Revising_Aggregations_Averages](http://hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Average_Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Japan_Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Population_Density_Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution]() | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
