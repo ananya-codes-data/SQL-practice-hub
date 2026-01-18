@@ -80,7 +80,7 @@ Links to questions and my answers are below
 | [Revising_Aggregations_Averages](http://hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Revising_Aggregations_Averages.sql) | Easy |
 | [Average_Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Average_Population.sql) | Easy |
 | [Japan_Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Japan_Population.sql) | Easy |
-| [Population_Density_Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Population_Density_Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Population_Density_Difference.sql) | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
