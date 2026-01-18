@@ -73,7 +73,7 @@ Links to questions and my answers are below
 | [Weather_Observation_Station_12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Weather_Observation_Station_12.sql) | Easy |
 | [Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Higher_Than_75_Marks.sql) | Easy |
 | [Employee_Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fd5f5d1db8fddf5dd5bed18c7eaef0e558b583e8/HackerRank/Employee_Names.sql) | Easy |
-| [Employee_Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution]() | Easy |
+| [Employee_Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Employee_Salaries.sql) | Easy |
 | [Type_of_Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) | [Solution]() | Easy |
 | [Revising_Aggregations_The_Count_Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) | [Solution]() | Easy |
 | [Revising_Aggregations_The_Sum_Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) | [Solution]() | Easy |
