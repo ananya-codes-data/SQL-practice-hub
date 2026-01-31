@@ -102,7 +102,7 @@ Links to questions and my answers are below
 | [Order_of_execution_of_a_Query](https://sqlbolt.com/lesson/select_queries_order_of_execution) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/bc2635246b8c9fd064bf107b7db287f5caf7e1d7/SQLBolt/Order_of_execution_of_a_Query.sql) | 2 |
 | [Inserting_rows](https://sqlbolt.com/lesson/inserting_rows) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/bc2635246b8c9fd064bf107b7db287f5caf7e1d7/SQLBolt/Inserting_rows.sql) | 2 |
 | [Updating_rows](https://sqlbolt.com/lesson/updating_rows) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Updating_rows.sql) | 3 |
-| [Deleting_rows](https://sqlbolt.com/lesson/deleting_rows) | [Solution]() | 2 |
+| [Deleting_rows](https://sqlbolt.com/lesson/deleting_rows) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Deleting_rows.sql) | 2 |
 | [Creating_tables](https://sqlbolt.com/lesson/creating_tables) | [Solution]() | 1 |
 | [Altering_tables](https://sqlbolt.com/lesson/altering_tables) | [Solution]() | 2 |
 | [Dropping_tables](https://sqlbolt.com/lesson/dropping_tables) | [Solution]() | 2 |
