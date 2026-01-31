@@ -29,8 +29,8 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 0    | 0      | 0    | 0     |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| Others        |      |        |      | 43    |
-| **Total**     | 27   | 0      | 0    | 70    |
+| Others        |      |        |      | 53    |
+| **Total**     | 27   | 0      | 0    | 80    |
 
 > Difficulty labels are based on the respective platforms.
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
@@ -39,10 +39,10 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 Platforms that organize problems by **topics instead of difficulty** are tracked separately below.
 
-| Platform  | Topics Covered                                                  | Problems |
-|-----------|-----------------------------------------------------------------|----------|
-| SQLZoo    |                                                                 | 0        |
-| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs, Aggregations         | 43       |
+| Platform  | Topics Covered                                                            | Problems |
+|-----------|---------------------------------------------------------------------------|----------|
+| SQLZoo    |                                                                           | 0        |
+| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs, Aggregations, DDL, DML         | 43       |
 
 > Progress is updated manually as problems are solved.
 
