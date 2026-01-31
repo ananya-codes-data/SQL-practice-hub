@@ -105,4 +105,4 @@ Links to questions and my answers are below
 | [Deleting_rows](https://sqlbolt.com/lesson/deleting_rows) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Deleting_rows.sql) | 2 |
 | [Creating_tables](https://sqlbolt.com/lesson/creating_tables) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Creating_tables.sql) | 1 |
 | [Altering_tables](https://sqlbolt.com/lesson/altering_tables) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Altering_tables.sql) | 2 |
-| [Dropping_tables](https://sqlbolt.com/lesson/dropping_tables) | [Solution]() | 2 |
+| [Dropping_tables](https://sqlbolt.com/lesson/dropping_tables) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/3459dc344483260c24af589be3ce2df15167323b/SQLBolt/Dropping_tables.sql) | 2 |
