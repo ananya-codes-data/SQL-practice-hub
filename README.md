@@ -26,11 +26,11 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 | Platform      | Easy | Medium | Hard | Total |
 |---------------|------|--------|------|-------|
-| LeetCode      | 0    | 0      | 0    | 0     |
+| LeetCode      | 1    | 0      | 0    | 1     |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
 | Others        |      |        |      | 53    |
-| **Total**     | 27   | 0      | 0    | 80    |
+| **Total**     | 27   | 0      | 0    | 81    |
 
 > Difficulty labels are based on the respective platforms.
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
