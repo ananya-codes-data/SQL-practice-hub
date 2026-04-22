@@ -50,6 +50,12 @@ Links to questions and my answers are below
 
 ## 💻 Platform-Based SQL Practice
 
+## Leetcode
+
+| Question | Solution | Difficulty |
+| -------- | ------------ | ---------- |
+| [Recyclable-and-Low-Fat-Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fed893b02bac7cc94bde230c842abbe48c775de2/Leetcode/Recyclable-and-Low-Fat-Products.SQL) | Easy |
+
 ## HackerRank
 
 | Question | Solution | Difficulty |
