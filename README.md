@@ -55,6 +55,7 @@ Links to questions and my answers are below
 | Question | Solution | Difficulty |
 | -------- | ------------ | ---------- |
 | [Recyclable-and-Low-Fat-Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/fed893b02bac7cc94bde230c842abbe48c775de2/Leetcode/Recyclable-and-Low-Fat-Products.SQL) | Easy |
+| [Find-Customer-Referee](https://leetcode.com/problems/find-customer-referee/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/8362bb7c37c322e17700f9a1306ab6e125c67229/Leetcode/Find-Customer-Referee.sql) | Easy |
 
 ## HackerRank
 
