@@ -11,3 +11,5 @@ WHERE
     low_fats = 'Y'
     AND
     recyclable = 'Y';
+
+select file
