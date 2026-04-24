@@ -17,6 +17,7 @@ Practicing SQL problems
 
 This repository contains my SQL problem-solving practice across multiple platforms.
 
+- [Leetcode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [SQLBolt](https://sqlbolt.com/)
 
