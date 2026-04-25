@@ -58,6 +58,7 @@ Links to questions and my answers are below
 | [Recyclable-and-Low-Fat-Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/49c5ccf102b9368af51dd1d2196fe22f03b620d4/Leetcode/Recyclable-and-Low-Fat-Products.sql) | Easy |
 | [Find-Customer-Referee](https://leetcode.com/problems/find-customer-referee/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/8362bb7c37c322e17700f9a1306ab6e125c67229/Leetcode/Find-Customer-Referee.sql) | Easy |
 | [Big-Countries](https://leetcode.com/problems/big-countries/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/6a179a2923166483afd155a28550ee1b9204fb0c/Leetcode/Big-Countries.sql) | Easy |
+| [Article-Views-I](https://leetcode.com/problems/article-views-i/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/47c87c8be068d9a5e61928da0f8b1d9e396c203b/Leetcode/Article-Views-I.sql) | Easy |
 
 ## HackerRank
 
