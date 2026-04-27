@@ -8,6 +8,7 @@ Practicing SQL problems
 - [Progress Tracker](#-progress-tracker)
 - [Platform-Based SQL Practice Tracker](#-platform-based-sql-practice-tracker)
 - [Platform-Based SQL Practice](#-platform-based-sql-practice)
+- [LeetCode](#leetcode)
 - [HackerRank](#hackerrank)
 - [Topic-Based SQL Practice Tracker](#-topic-based-sql-practice-tracker)
 - [Topic-Based SQL Practice](#-topic-based-sql-practice)
