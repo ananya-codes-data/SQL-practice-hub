@@ -60,7 +60,7 @@ Links to questions and my answers are below
 | [Big-Countries](https://leetcode.com/problems/big-countries/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/6a179a2923166483afd155a28550ee1b9204fb0c/Leetcode/Big-Countries.sql) | Easy |
 | [Article-Views-I](https://leetcode.com/problems/article-views-i/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/47c87c8be068d9a5e61928da0f8b1d9e396c203b/Leetcode/Article-Views-I.sql) | Easy |
 | [Invalid-Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/11595906d3e353556ade4a5350b50f686bbbc442/Leetcode/Invalid-Tweets.sql) | Easy |
-| [Replace-Employee-ID-with-the-Unique-Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Solution]() | Easy |
+| [Replace-Employee-ID-with-the-Unique-Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/4c9cb55fd77857407a3f7ece8369a137b2a0ec33/Leetcode/Replace-Employee-ID-with-the-Unique-Identifier.sql) | Easy |
 | [Product-Sales-Analysis-I](https://leetcode.com/problems/product-sales-analysis-i/description/) | [Solution]() | Easy |
 
 ## HackerRank
