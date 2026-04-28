@@ -63,6 +63,7 @@ Links to questions and my answers are below
 | [Invalid-Tweets](https://leetcode.com/problems/invalid-tweets/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/11595906d3e353556ade4a5350b50f686bbbc442/Leetcode/Invalid-Tweets.sql) | Easy |
 | [Replace-Employee-ID-with-the-Unique-Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/4c9cb55fd77857407a3f7ece8369a137b2a0ec33/Leetcode/Replace-Employee-ID-with-the-Unique-Identifier.sql) | Easy |
 | [Product-Sales-Analysis-I](https://leetcode.com/problems/product-sales-analysis-i/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/4c9cb55fd77857407a3f7ece8369a137b2a0ec33/Leetcode/Product-Sales-Analysis-I.sql) | Easy |
+| [Customer-Who-Visited-but-Did-Not-Make-Any-Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/8a28ed4160675cb3b9778869ee066330ace2ecf8/Leetcode/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql) | Easy |
 
 ## HackerRank
 
