@@ -31,6 +31,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 10   | 0      | 0    | 10    |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
+| DataLemur     | 0    | 1      | 0    | 1     |
 | Others        |      |        |      | 53    |
 | **Total**     | 35   | 0      | 0    | 90    |
 
@@ -98,6 +99,12 @@ Links to questions and my answers are below
 | [Average_Population](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Average_Population.sql) | Easy |
 | [Japan_Population](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Japan_Population.sql) | Easy |
 | [Population_Density_Difference](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/853a19bc6631579f9f645a23398e77b009811922/HackerRank/Population_Density_Difference.sql) | Easy |
+
+## DataLemur
+
+| Question | Solution | Difficulty |
+| -------- | ------------ | ---------- |
+| [Top_5_Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/797c7a097f6946052b4213ef2b4756f8ddb30ebe/DataLemur/Top_5_artists_spotify.sql) | Medium |
 
 ## 📚 Topic-Based SQL Practice
 
