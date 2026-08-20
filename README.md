@@ -108,6 +108,7 @@ Links to questions and my answers are below
 | -------- | ------------ | ---------- |
 | [Top_5_Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/797c7a097f6946052b4213ef2b4756f8ddb30ebe/DataLemur/Top_5_artists_spotify.sql) | Medium |
 | [Patient Support Analysis I](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/8afc2da8dd8aeca3028984d0d0a6a27a478dc5e2/DataLemur/Patient_support_analysis_I.sql) | Easy |
+| [Patient Support Analysis II](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/751705315b360edf7d8c80296c2befc56e27b93e/DataLemur/Patient_support_analysis_II.sql) | Medium |
 
 ## 📚 Topic-Based SQL Practice
 
