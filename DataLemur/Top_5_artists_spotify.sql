@@ -29,5 +29,5 @@ WHERE artist_id IS NOT NULL
 GROUP BY artist_name
 )
 SELECT *
-FROM final_table
+FROM top_5_artists
 WHERE artist_rank <= 5
