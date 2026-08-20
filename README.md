@@ -33,9 +33,9 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 10   | 0      | 0    | 10    |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| DataLemur     | 1    | 2      | 0    | 3     |
+| DataLemur     | 1    | 3      | 0    | 4     |
 | Others        |      |        |      | 53    |
-| **Total**     | 35   | 0      | 0    | 93    |
+| **Total**     | 35   | 0      | 0    | 94    |
 
 > Difficulty labels are based on the respective platforms.
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
