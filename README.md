@@ -21,6 +21,7 @@ This repository contains my SQL problem-solving practice across multiple platfor
 
 - [Leetcode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [DataLemur](https://datalemur.com/)
 - [SQLBolt](https://sqlbolt.com/)
 
 ## 📊 Progress Tracker
