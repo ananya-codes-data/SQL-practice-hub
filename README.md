@@ -10,6 +10,7 @@ Practicing SQL problems
 - [Platform-Based SQL Practice](#-platform-based-sql-practice)
 - [LeetCode](#leetcode)
 - [HackerRank](#hackerrank)
+- [DataLemur](#datalemur)
 - [Topic-Based SQL Practice Tracker](#-topic-based-sql-practice-tracker)
 - [Topic-Based SQL Practice](#-topic-based-sql-practice)
 - [SQLBolt](#sqlbolt)
@@ -31,9 +32,9 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 10   | 0      | 0    | 10    |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| DataLemur     | 0    | 1      | 0    | 1     |
+| DataLemur     | 1    | 1      | 0    | 2     |
 | Others        |      |        |      | 53    |
-| **Total**     | 35   | 0      | 0    | 91    |
+| **Total**     | 35   | 0      | 0    | 92    |
 
 > Difficulty labels are based on the respective platforms.
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
