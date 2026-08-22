@@ -1,5 +1,5 @@
 -- Platform: Leetcode
--- Difficulty: Easy
+-- Difficulty: Medium
 -- Problem: https://leetcode.com/problems/market-analysis-i/description/
 
 -- Solution:
