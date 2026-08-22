@@ -69,6 +69,8 @@ Links to questions and my answers are below
 | [Customer-Who-Visited-but-Did-Not-Make-Any-Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/8a28ed4160675cb3b9778869ee066330ace2ecf8/Leetcode/Customer-Who-Visited-but-Did-Not-Make-Any-Transactions.sql) | Easy |
 | [Customer-who-Never-Order](https://leetcode.com/problems/customers-who-never-order/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/c9c2e28e18590d37da811d941c53856cdfec5f48/Leetcode/Customers-who-Never-Order.sql) | Easy |
 | [Fix-names-in-a-table](https://leetcode.com/problems/fix-names-in-a-table/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/019ad36daf3e9f600755ff61bd2485c0aac5c5ec/Leetcode/Fix-names-in-a-table.sql) | Easy |
+| [Exchange-seats](https://leetcode.com/problems/exchange-seats/description/) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/9807ec2756023579bad28c3bb81833ce6697f6dd/Leetcode/Exchange-seats.sql) | Medium |
+| []() | [Solution]() | Easy |
 
 ## HackerRank
 
