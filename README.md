@@ -113,10 +113,10 @@ Links to questions and my answers are below
 | [Patient Support Analysis II](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/751705315b360edf7d8c80296c2befc56e27b93e/DataLemur/Patient_support_analysis_II.sql) | Medium |
 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/e5569f710d0d8a8f45b244c563c4f9f6abc7abd4/DataLemur/Histogram_of_users_purchases.sql) | Medium |
 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26fc5bbcc1ff03576600922c31b61313a108e1cb/DataLemur/Compressed_Mean.sql) | Easy |
-| [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution]() | Medium |
-| [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution]() | Easy |
-| [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution]() | Medium |
-| [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution]() | Easy |
+| [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Sending_vs_Opening_Snaps.sql) | Medium |
+| [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Pharmacy_Analytics_(Part_2).sql) | Easy |
+| [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/User's_Third_Transaction.sql) | Medium |
+| [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Final_Account_Balance.sql) | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
