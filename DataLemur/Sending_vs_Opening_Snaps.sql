@@ -1,5 +1,5 @@
 -- Platform: DataLemur
--- Difficulty: Easy
+-- Difficulty: Medium
 -- Problem: https://datalemur.com/questions/time-spent-snaps
 
 -- Solution:
