@@ -33,9 +33,9 @@ This repository contains my SQL problem-solving practice across multiple platfor
 | LeetCode      | 10   | 2      | 0    | 12    |
 | HackerRank    | 27   | 0      | 0    | 27    |
 | StrataScratch | 0    | 0      | 0    | 0     |
-| DataLemur     | 3    | 5      | 0    | 8     |
+| DataLemur     | 10   | 5      | 0    | 15    |
 | Others        |      |        |      | 53    |
-| **Total**     | 35   | 0      | 0    | 96    |
+| **Total**     | 35   | 0      | 0    | 107   |
 
 > Difficulty labels are based on the respective platforms.
 > "Others" includes topic-based platforms such as SQLZoo and SQLBolt.
@@ -47,7 +47,7 @@ Platforms that organize problems by **topics instead of difficulty** are tracked
 | Platform  | Topics Covered                                                            | Problems |
 |-----------|---------------------------------------------------------------------------|----------|
 | SQLZoo    |                                                                           | 0        |
-| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs, Aggregations, DDL, DML         | 43       |
+| SQLBolt   | Quering, Filtering, sorting, JOINs, NULLs, Aggregations, DDL, DML         | 53       |
 
 > Progress is updated manually as problems are solved.
 
@@ -117,6 +117,12 @@ Links to questions and my answers are below
 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Pharmacy_Analytics_(Part_2).sql) | Easy |
 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/User's_Third_Transaction.sql) | Medium |
 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Final_Account_Balance.sql) | Easy |
+| [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution]() | Easy |
+| [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution]() | Easy |
+| [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution]() | Easy |
+| [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution]() | Easy |
+| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution]() | Easy |
+| [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution]() | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
