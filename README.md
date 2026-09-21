@@ -117,12 +117,12 @@ Links to questions and my answers are below
 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Pharmacy_Analytics_(Part_2).sql) | Easy |
 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/User's_Third_Transaction.sql) | Medium |
 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/499dbadc9c192ef148123bd31203ddb71865ff85/DataLemur/Final_Account_Balance.sql) | Easy |
-| [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution]() | Easy |
-| [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution]() | Easy |
-| [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution]() | Easy |
-| [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution]() | Easy |
-| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution]() | Easy |
-| [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution]() | Easy |
+| [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Pharmacy_Analytics_(Part_1).sql) | Easy |
+| [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Cards_Issued_Difference.sql) | Easy |
+| [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Laptop_vs_Mobile_Viewership.sql) | Easy |
+| [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Unfinished_Parts.sql) | Easy |
+| [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Page_With_No_Likes.sql) | Easy |
+| [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/ananya-codes-data/SQL-practice-hub/blob/26cde2b333f700634538fadbf919b0d1551b8198/DataLemur/Data_Science_Skills.sql) | Easy |
 
 ## 📚 Topic-Based SQL Practice
 
